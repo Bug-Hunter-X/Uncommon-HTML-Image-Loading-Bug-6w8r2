@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML bug related to image loading. The bug occurs when an image source path is invalid, leading to the image not displaying correctly. The solution involves verifying the image source path and handling potential errors.
